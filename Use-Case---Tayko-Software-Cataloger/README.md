@@ -2,7 +2,6 @@ Applied Data Science for Business
 # Use-Case---Tayko-Software-Cataloger-
 Tayko is a software catalog firm that sells games and educational software. It started out as a software manufacturer and later added third-party titles to its offerings. It has recently put together a revised collection of items in a new catalog, which it is preparing to roll out in a mailing. In this use case, I will apply logistic regression, multiple linear regression, and regression trees to make recommendations to optimize the mailing catalog and gross profits. 
 
-# Use Case - Tayko Software Cataloger)
 Note: Although Tayko is a hypothetical company, the data in this case (modified slightly for illustrative purposes) were supplied by a real company that sells software through direct sales. The concept of a catalog consortium is based on the Abacus Catalog Alliance.
 ## BACKGROUND
 Tayko is a software catalog firm that sells games and educational software. It started out as a software manufacturer and later added third-party titles to its offerings. It has recently put together a revised collection of items in a new catalog, which it is preparing to roll out in a mailing. 
